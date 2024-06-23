@@ -1,6 +1,7 @@
 {
     "files.associations": {
         "*.ejs": "html",
-        "termios.h": "c"
+        "termios.h": "c",
+        "unistd.h": "c"
     }
 }
